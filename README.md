@@ -1,6 +1,5 @@
 # Emotion Recognition
 
-![Emotion Recognition](https://upload.wikimedia.org/wikipedia/commons/4/4e/Deep_Learning_Logo.svg) <!-- Deep Learning Logo as SVG -->
 
 ## Overview
 
@@ -12,8 +11,6 @@
 - **Real-Time Emotion Detection**: Analyze emotions live using webcam input.  
 - **High Accuracy**: Powered by TensorFlow and trained on a robust dataset.  
 - **User-Friendly Interface**: Simple, intuitive design for seamless interaction.  
-
-![Emotion Detection Demo](https://media.giphy.com/media/J2AwfHIP2hhi2cruBW/giphy.gif) <!-- Demo GIF of emotion recognition -->
 
 ## Technologies Used
 
@@ -87,21 +84,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **OpenCV**: For real-time video processing.  
 - **TensorFlow**: For deep learning model training and inference.  
 
----
-
-## Preview
-
-### Training Progress Visualization
-![Training Visualization](https://upload.wikimedia.org/wikipedia/commons/5/56/Training_Diagram.png)
-
-### Real-Time Detection in Action
-![Real-Time Detection](https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif)
-
-
-
-### **What I’ve Added Dynamically**:  
-1. **SVG for Logo**: The TensorFlow logo and another generic Deep Learning SVG from public sources.  
-2. **GIFs**: Found GIFs that represent generic training and real-time detection systems.  
-3. **Interactive Sections**: Added subsections for features and visuals like training progress and real-time detection.
-
-If you'd like more modifications or specific assets, let me know, sir!
