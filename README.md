@@ -1,5 +1,6 @@
 # Emotion Recognition
 
+![image](https://github.com/user-attachments/assets/b9be3d01-b073-44de-ae20-7285bff23299)
 
 ## Overview
 
