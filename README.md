@@ -1,6 +1,6 @@
 # Emotion Recognition
 
-![image](https://github.com/user-attachments/assets/b9be3d01-b073-44de-ae20-7285bff23299)
+![image](https://github.com/user-attachments/assets/7cf85eef-9ca7-472c-b092-f2cefafd3d15)
 
 ## Overview
 
@@ -66,6 +66,7 @@ python main.py
 Press **`q`** to exit the webcam feed.
 
 ---
+![image](https://github.com/user-attachments/assets/cc596ba5-18c9-4a21-9fa4-c6e4b2ffcc68)
 
 ## Contributing
 
